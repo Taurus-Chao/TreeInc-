@@ -1,4 +1,4 @@
- The implementation of Binary Search Tree(BST) in C++ on platform VS2013. 
+## The implementation of Binary Search Tree(BST) in C++ on platform VS2013. 
 
 The project consists of:
 1. *Mytree.h* and *Mytree.cpp*
